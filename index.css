@@ -1,0 +1,39 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.container
+{
+    background-color: rgb(250, 174, 174);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+}
+.container img
+{
+    width: 75%;
+    border-radius: 3px;
+}
+.time
+{
+    position: absolute;
+    font-size: 80px;
+    color: wheat;
+    /* left:45%; */
+}
+.p
+{
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+.text
+{
+    position: absolute;
+    color: white;
+    top:70%;
+}
